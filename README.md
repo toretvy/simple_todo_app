@@ -2,7 +2,7 @@
 
 Flutter todo app.
 
-## Getting Started
+## Info about the project
 
 This project is a simple todo app that you can add, edit, delete tasks and also it has database (hive_flutter).
 
